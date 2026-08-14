@@ -38,3 +38,5 @@ For example, to run the server project:
 <img width="1919" height="1034" alt="Screenshot 2025-11-16 095300" src="https://github.com/user-attachments/assets/8eb8d8ca-c951-4936-9aed-c85fbef3a531" />
 <img width="1915" height="1038" alt="Screenshot 2025-11-16 101633" src="https://github.com/user-attachments/assets/fbcee164-9342-4df0-87ce-50b9ed55f88d" />
 
+  <img width="1919" height="1079" alt="Screenshot 2026-02-28 125001" src="https://github.com/user-attachments/assets/6f138690-4787-4eb4-a93c-45f33e44406a" />
+
