@@ -31,12 +31,10 @@ You can compile most of the C projects using `gcc`. Navigate into the project fo
 
 For example, to run the server project:
 
-```bash
-# Navigate to the folder
-cd server
 
-# Compile the C file
-gcc server.c -o server
 
-# Run the executable
-./server
+<img width="1919" height="1043" alt="Screenshot 2025-11-16 095714" src="https://github.com/user-attachments/assets/eccf6440-e41d-4e85-98c7-4ace25c9c195" />
+<img width="1919" height="1038" alt="Screenshot 2025-11-16 095646" src="https://github.com/user-attachments/assets/bb25ce25-cc1c-402b-a773-5d59bc3c9ec0" />
+<img width="1919" height="1034" alt="Screenshot 2025-11-16 095300" src="https://github.com/user-attachments/assets/8eb8d8ca-c951-4936-9aed-c85fbef3a531" />
+<img width="1915" height="1038" alt="Screenshot 2025-11-16 101633" src="https://github.com/user-attachments/assets/fbcee164-9342-4df0-87ce-50b9ed55f88d" />
+
